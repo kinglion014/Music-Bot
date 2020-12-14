@@ -1,7 +1,7 @@
 {
   "name": "Music Bot",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/kinglion014/Music-Bot",
+  "repository": "https://github.com/kinglion014/Music-Bot/tree/main/Music%20Bot",
   "logo": "https://cdn.discordapp.com/attachments/685856008966504539/788047492884332564/789.jpg",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
