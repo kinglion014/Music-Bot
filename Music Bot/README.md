@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kinglion014/Music-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kinglion014/Music-Bot/tree/main/Music%20Bot)
 
 ![logo](https://cdn.discordapp.com/attachments/685856008966504539/788047492884332564/789.jpg)
 
